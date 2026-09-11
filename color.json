@@ -1,0 +1,25 @@
+[
+    {
+        "background": "#191C27",
+        "black": "#181818",
+        "blue": "#576D8C",
+        "brightBlack": "#555555",
+        "brightBlue": "#3097C6",
+        "brightCyan": "#F3DBB2",
+        "brightGreen": "#A6A75D",
+        "brightPurple": "#D33061",
+        "brightRed": "#AC3835",
+        "brightWhite": "#F4F4F4",
+        "brightYellow": "#DCDF7C",
+        "cursorColor": "#92805B",
+        "cyan": "#5C4F4B",
+        "foreground": "#AEA47A",
+        "green": "#48513B",
+        "name": "icecream",
+        "purple": "#724D7C",
+        "red": "#810009",
+        "selectionBackground": "#172539",
+        "white": "#AEA47F",
+        "yellow": "#CC8B3F"
+    }
+]
